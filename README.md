@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yorick20022
+- 👀 I’m interested in IT and development
+- 🌱 I’m currently learning the basics of programming still..
