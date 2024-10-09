@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yorick20022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">Hi 👋! My name is Yorick and I'm an IT student!</h2>
+<h2 align="center">Hi 👋! My name is Yorick and I work in IT!</h2>
 <br>
 <h2 align="center">Programming Experience:</h2>
 
