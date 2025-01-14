@@ -13,6 +13,8 @@
 - Lua  
 - Python  
 
+<h4 align="center">Feel free to look through my repositories so you can get an idea of what I enjoy creating.</h4>
+
 <h4 align="center">I'm always looking to learn new things and improve my skills!</h4>
 
 ---
