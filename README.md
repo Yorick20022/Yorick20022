@@ -19,4 +19,4 @@
 
 ---
 
-<p align="center">Feel free to reach out if you want to collaborate or chat!</p>
+<p align="center">Feel free to reach out if you want to work on something together!</p>
